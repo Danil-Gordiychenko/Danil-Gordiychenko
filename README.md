@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/danil_gordiychenko/">
     <img src="https://img.shields.io/badge/instagram-d69494?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="#">
+  <a href="https://twitter.com/DanielCoder">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
