@@ -32,7 +32,7 @@
 
 <hr color="f2aee9">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Danil-Gordiychenko&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Danil-Gordiychenko&show_icons=true&theme=onedark"/>
 
 ### <p align="center">FOLLOW ME<p/>
 <div id="badges" align="center">
