@@ -17,7 +17,10 @@
     <img height="50px" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F05032&style=for-the-badge" alt="LinkedIn Badge"/>
     <img height="50px" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717&style=for-the-badge" alt="LinkedIn Badge"/>
     <img height="50px" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=3178C6&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img height="50px" src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837&style=for-the-badge" alt="LinkedIn Badge"/>
+    
 </div>
+
 <br>
 <hr color="f2aee9">
 
@@ -28,7 +31,8 @@
     <div>
 
 <hr color="f2aee9">
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Danil-Gordiychenko&show_icons=true&theme=dark"/>
 
 ### <p align="center">FOLLOW ME<p/>
 <div id="badges" align="center">
@@ -42,6 +46,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Danil-Gordiychenko&style=flat-square&color=d1bc43" alt=""/>  
 </div>
