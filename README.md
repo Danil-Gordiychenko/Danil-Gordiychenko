@@ -1,12 +1,11 @@
 # Hi, my name is Daniel 👋
 
-
 <h2 align="center">ABOUT ME:</h2>
 <p align="center">I am a beginner front end programmer. At the moment, I have already learned most of the basic technologies related to web development. I really like what I do. I am sure that the efforts that I put in in the future will pay off with more. Well you can wish me luck )<p/>
 <hr color="f2aee9">
 
-
 ### LANGUAGES AND TOOLS
+
 <br>
 <div id="badges" align="center">
     <img height="50px" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -24,8 +23,8 @@
 <br>
 <hr color="f2aee9">
 
-
 ### SOFT SKILLS
+
 <p>I am very communicative. I easily find a thread of communication with a person. I can spend my days doing what I love. During my studies, I not only learned web development, but also learned how to solve problems on my own.
         I know English at upper-intermediate level.</p>
     <div>
@@ -35,6 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Danil-Gordiychenko&show_icons=true&theme=onedark"/>
 
 ### <p align="center">FOLLOW ME<p/>
+
 <div id="badges" align="center">
   <a href="https://t.me/Daniil_wade">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
@@ -42,14 +42,10 @@
   <a href="https://www.instagram.com/danil_gordiychenko/">
     <img src="https://img.shields.io/badge/instagram-d69494?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://linkedin.com/DanielCoder">
+    <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Twitter Badge"/>
+  </a>
   <a href="https://twitter.com/DanielCoder">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Danil-Gordiychenko&style=flat-square&color=d1bc43" alt=""/>  
-</div>
-
-
-
